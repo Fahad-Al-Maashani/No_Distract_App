@@ -16,10 +16,6 @@ No Distract App is a productivity-focused mobile application that helps users st
 - **Break Reminders**: Smart notifications to take healthy breaks
 - **Progress Tracking**: Monitor your focus improvement over time
 
-## Screenshots
-
-*Screenshots will be added here*
-
 ## Getting Started
 
 ### Prerequisites
