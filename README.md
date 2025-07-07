@@ -49,12 +49,7 @@ flutter run
 ```
 lib/
 ├── main.dart              # App entry point
-├── screens/               # UI screens
-├── widgets/               # Reusable UI components
-├── models/                # Data models
-├── services/              # Business logic and API calls
-├── utils/                 # Utility functions and constants
-└── theme/                 # App theming and styling
+
 ```
 
 ## Dependencies
