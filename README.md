@@ -130,7 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 Fahad Al Maashani - [@Fahad-Al-Maashani](https://github.com/Fahad-Al-Maashani)
 
-Project Link: [https://github.com/Fahad-Al-Maashani/No_Distract_App](https://github.com/Fahad-Al-Maashani/No_Distract_App)
+Project Link: soon will be updated
 
 ## Acknowledgments
 
